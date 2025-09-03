@@ -6,15 +6,16 @@
 ---
 
 ## 🔥 About Me
-- 🔭 Currently working on: **Explainable Fake News Detection (SHAP/LIME)**  
+- 🔭 Currently working on: **Conversational RAG Chatbot**  
 - 🌱 Learning: **DSA (C++), NLP, and Deep Learning**  
 - 💼 Internships: **SkillCraft ML Intern | Unified Mentor Data Analyst**  
-- 📚 Projects: Heart Disease Prediction • Sentiment Analysis (YouTube) • Smart Unit Converter  
+- 📚 Projects: Fake News Detection • Sentiment Analysis (YouTube) • Smart Unit Converter • Stock Alert System  
 - ⚡ Fun fact: I collect **Monster Energy cans** ⚡  
 
 ---
 
 ## 🚀 Featured Projects
+- [Conversational RAG Chatbot](#) → Retrieval-Augmented Generation chatbot with vector DB + LLMs  
 - [Fake News Detection](https://github.com/adiprabhu04/fake-news-detection) → LSTM + SHAP/LIME interpretability  
 - [Sentiment YouTube BERT](https://github.com/adiprabhu04/sentiment-youtube-bert) → DeBERTa/BERT sentiment classification  
 - [Stock Alert System](https://github.com/adiprabhu04/stock-alert-system) → Real-time alerts + news analysis  
@@ -30,6 +31,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=vector&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,15 +40,19 @@
 ---
 
 ## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprabhu04&show_icons=true&theme=radical)  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprabhu04&count_private=true&show_icons=true&theme=radical&hide_border=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adiprabhu04&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=adiprabhu04&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprabhu04&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adiprabhu04/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaprabhudessai04@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-prabhudessai-745083262/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Prabhudessai/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiprabhu04@gmail.com)  
 
 ---
+
 ✨ *“Consistency beats intensity — commit daily, learn daily, grow daily.”* ✨
