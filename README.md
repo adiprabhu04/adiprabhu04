@@ -42,7 +42,7 @@
 ## 📈 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprabhu04&count_private=true&show_icons=true&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adiprabhu04&theme=radical&hide_border=true)
+![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adiprabhu04&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprabhu04&layout=compact&theme=radical&hide_border=true)  
 
