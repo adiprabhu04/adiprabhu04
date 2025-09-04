@@ -1,7 +1,12 @@
+<!-- Header Animation -->
+<p align="center">
+  <img src="assets/coder.gif" alt="Coder at desk animation" width="720">
+</p>
+
 # Hi 👋, I'm Aditya Prabhudessai  
 
-🎓 B.Tech IT @ Manipal University Jaipur (Batch ’26)  
-📊 Data Analyst & ML Enthusiast | 🚀 Aspiring Software Engineer  
+🎓 **B.Tech IT @ Manipal University Jaipur (Batch ’26)**  
+📊 **Data Analyst & ML Enthusiast | 🚀 Aspiring Software Engineer**  
 
 ---
 
@@ -23,35 +28,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=vector&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprabhu04&count_private=true&show_icons=true&theme=radical&hide_border=true)  
-
-![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adiprabhu04&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprabhu04&layout=compact&theme=radical&hide_border=true)  
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-prabhudessai-745083262/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Prabhudessai/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiprabhu04@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aeditya05/)  
 
 ---
 
