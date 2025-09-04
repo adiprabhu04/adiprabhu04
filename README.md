@@ -1,7 +1,8 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="assets/coder.gif" alt="Coder at desk animation" width="720">
+  <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="720" alt="Lofi coder vibes" />
 </p>
+
 
 # Hi 👋, I'm Aditya Prabhudessai  
 
